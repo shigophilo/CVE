@@ -13,11 +13,11 @@
 
 - Vulnerability related code
 
-!(https://github.com/shigophilo/shigophilo.github.io/blob/main/_posts/imgs/2024-08-12-%E7%A5%A8%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%A0%87%E5%87%86%E7%89%88-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%BC%8F%E6%B4%9E/image-20240812124039627.png?raw=true)
+!(imgs/2024-08-12-票务管理系统标准版-文件上传漏洞/image-20240812124205940.png)
 
 - Method for reproducing vulnerabilities
 
-![image-20240812124118510](imgs/2024-08-12-票务管理系统标准版-文件上传漏洞/image-20240812124118510.png)
+![image-20240812124118510](imgs/2024-08-12-票务管理系统标准版-文件上传漏洞/image-20240812124039627.png)
 
 - visit url/UploadImage/1.asp
 
